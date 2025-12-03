@@ -1,18 +1,4 @@
-// 2024-12-01T03:09:00.000Z - 87cxoszz
-// 2024-12-02T09:58:00.000Z - 6r0ieqyz
-// 2024-12-10T06:33:00.000Z - 1uue5ljl
-// 2024-12-10T20:28:00.000Z - si1n6yej
-// 2024-12-15T01:30:00.000Z - 3td1uc4y
-// 2024-12-17T12:21:00.000Z - o688uzru
-// 2024-12-17T22:10:00.000Z - 690fnv72
-// 2024-12-18T08:46:00.000Z - idkcnq6f
-// 2024-12-19T17:53:00.000Z - rjp648u8
-// 2024-12-19T07:35:00.000Z - jmu3fmq3
-// 2024-12-19T12:37:00.000Z - pih23wzh
-// 2024-12-19T11:33:00.000Z - igtvrclp
-// 2024-12-22T05:18:00.000Z - o0ze586o
-// 2024-12-22T15:02:00.000Z - 58wb97gg
-// 2024-12-24T08:40:00.000Z - 1iqx13m3
-// 2024-12-24T18:38:00.000Z - kecldmws
-// 2024-12-25T17:37:00.000Z - 38zuen9n
-// 2024-12-25T12:06:00.000Z - c0hap12w
+﻿# Daily Notes
+
+Just a personal repo where I commit random thoughts and tiny code snippets almost every day.
+Keeps the streak alive.
